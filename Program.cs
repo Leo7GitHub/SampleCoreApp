@@ -7,6 +7,11 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace SampleCoreApp
 {
+
+// *****************************************************************************
+// https://www.syncfusion.com/blogs/post/how-to-develop-an-asp-net-core-application-using-visual-studio-code.aspx
+// ******************************************************************************
+
     public class Program
     {
         public static void Main(string[] args)
